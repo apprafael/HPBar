@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HPBar"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A HPBar inspired on games"
 
   # This description is used to generate tags and improve search results.
@@ -63,7 +63,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.platform     = :ios
-  spec.platform     = :ios, "15.4"
+  spec.platform     = :ios, "15.0"
 
   #  When using multiple platforms
   # spec.ios.deployment_target = "5.0"
