@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HPBar"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "A HPBar inspired on games"
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   A HPBar inspired on games
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/HPBar"
+  spec.homepage     = "https://github.com/apprafael/HPBar"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
